@@ -1,0 +1,16 @@
+C:\Users\91989\Desktop\ChatApp\ChatApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\91989\Desktop\ChatApp\ChatApp\bin\Debug\netcoreapp2.1\ChatApp.deps.json
+C:\Users\91989\Desktop\ChatApp\ChatApp\bin\Debug\netcoreapp2.1\ChatApp.runtimeconfig.json
+C:\Users\91989\Desktop\ChatApp\ChatApp\bin\Debug\netcoreapp2.1\ChatApp.runtimeconfig.dev.json
+C:\Users\91989\Desktop\ChatApp\ChatApp\bin\Debug\netcoreapp2.1\ChatApp.dll
+C:\Users\91989\Desktop\ChatApp\ChatApp\bin\Debug\netcoreapp2.1\ChatApp.pdb
+C:\Users\91989\Desktop\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.csprojAssemblyReference.cache
+C:\Users\91989\Desktop\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.AssemblyInfoInputs.cache
+C:\Users\91989\Desktop\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.AssemblyInfo.cs
+C:\Users\91989\Desktop\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\91989\Desktop\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.RazorAssemblyInfo.cache
+C:\Users\91989\Desktop\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.RazorAssemblyInfo.cs
+C:\Users\91989\Desktop\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.RazorTargetAssemblyInfo.cache
+C:\Users\91989\Desktop\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.dll
+C:\Users\91989\Desktop\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.pdb
+C:\Users\91989\Desktop\ChatApp\ChatApp\obj\Debug\netcoreapp2.1\ChatApp.genruntimeconfig.cache
