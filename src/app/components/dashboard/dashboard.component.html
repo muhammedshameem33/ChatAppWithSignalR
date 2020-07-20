@@ -1,0 +1,13 @@
+<div class="example-container" [class.example-is-mobile]="mobileQuery.matches">
+    <mat-toolbar style="background: #008068" class="example-toolbar">
+        <!-- <mat-card class="profile-pic">
+
+        </mat-card> -->
+        <h1 style="margin:45%">Chat Application</h1>
+    </mat-toolbar>
+    <mat-sidenav-container class="example-sidenav-container" [style.marginTop.px]="mobileQuery.matches ? 56 : 0">
+        <mat-sidenav-content>
+            <app-chat></app-chat>
+        </mat-sidenav-content>
+    </mat-sidenav-container>
+</div>

@@ -1,0 +1,22 @@
+<mat-card id="chat-container">
+<div *ngFor="let msg of msgArray">
+<div *ngIf="msg.type=='reciever'; else senderBlock">
+    <mat-card class="left-end">{{msg.msg}}</mat-card>
+    <span class="left-end">{{msg.date | date:'medium'}}</span>
+</div>
+<ng-template #senderBlock>
+    <div>
+        <mat-card class="right-end">{{msg.msg}}</mat-card>
+    </div>
+    <span class="right-end">{{msg.date | date:'medium'}}</span>
+</ng-template>
+</div>
+<mat-card style="margin-top:50%;">
+    <form (ngSubmit)="sendMessage()">
+        <input id="message" [formControl]="messages" matInput placeholder="Enter Text Here">
+        <button id="icon-btn" mat-button type="submit">
+            <span id="icon" class="material-icons">send</span>
+        </button>
+    </form>
+</mat-card>
+</mat-card>
